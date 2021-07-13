@@ -1,6 +1,7 @@
 import styled from 'styled-components';
 import Box from '../Box';
 
+export default ProfileRelations
 export const ProfileRelationsBoxWrapper = styled(Box)`
   ul {
     display: grid;
